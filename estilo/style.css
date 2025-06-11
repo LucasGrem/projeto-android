@@ -19,7 +19,7 @@
 
     --fonte_padrao: Arial, Helvetica, sans-serif;
     --fonte_destaque: 'Bebas Neue', sans-serif;
-    --fonte_android: 'Idroid';
+    --fonte_android: 'Idroid', Arial, Arial, Helvetica, sans-serif;
 }
 
 * {
